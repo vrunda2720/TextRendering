@@ -11,6 +11,7 @@ namespace Lablecontrol
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>
+///Hi I am dev branch
     public partial class App : Application
     {
     }
