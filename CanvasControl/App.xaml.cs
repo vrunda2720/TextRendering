@@ -11,6 +11,7 @@ namespace CanvasControl
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>
+	/// Hi I am master branch
     public partial class App : Application
     {
     }
